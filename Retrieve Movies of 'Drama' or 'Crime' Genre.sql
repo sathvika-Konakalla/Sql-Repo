@@ -1,0 +1,1 @@
+SELECT * FROM Movies WHERE GENRE='Drama' OR GENRE='Crime';
