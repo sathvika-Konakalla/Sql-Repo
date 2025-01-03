@@ -1,0 +1,1 @@
+SELECT TITLE FROM Movies WHERE GENRE='Science Fiction';
